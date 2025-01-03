@@ -1,3 +1,13 @@
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/itsmikethetech?logo=Patreon&label=Support%20MikeTheTech%20on%20Patreon&link=https%3A%2F%2Fwww.patreon.com%2Fc%2Fmikethetech">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/bud3699?logo=BuyMeACoffee&label=Buy%20Bud3699%20a%20Coffee&link=https%3A%2F%2Fbuymeacoffee.com%2Fbud3699">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/mikethetech?logo=BuyMeACoffee&label=Buy%20MikeTheTech%20a%20Coffee&link=https%3A%2F%2Fbuymeacoffee.com%2Fbud3699">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/itsmikethetech?style=flat&logo=GitHub%20Sponsors&logoColor=red&label=Sponsor%20MikeTheTech&color=blue&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fitsmikethetech">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/zjoasan?style=flat&logo=GitHub%20Sponsors&logoColor=red&label=Sponsor%20zjoasan&color=blue&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fitsmikethetech">
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/VirtualDisplay/Virtual-Display-Driver">
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/VirtualDisplay/Virtual-Display-Driver/total">
+<img alt="GitHub License" src="https://img.shields.io/github/license/VirtualDisplay/Virtual-Display-Driver">
+
+
 # Virtual Display Driver
 This project creates a _virtual display_ in Windows that functions just like a physical monitor. It is particularly useful for applications such as **streaming, virtual reality, screen recording,** and **headless servers—systems** that operate without a physical display attached. 
 
